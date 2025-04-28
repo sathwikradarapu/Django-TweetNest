@@ -86,7 +86,3 @@ A social media web app that replicates basic functionality of Twitter, built usi
 
 ---
 
-## 🧑‍💻 Project Structure
-
-Django-TweetNest/ ├── tweetnest/ # Main Django app directory │ ├── migrations/ # Database migrations │ ├── static/ # Static files like CSS, JavaScript, and images │ ├── templates/ # HTML templates │ ├── admin.py # Admin panel configurations │ ├── apps.py # App configuration │ ├── models.py # Database models (User, Tweet, etc.) │ ├── views.py # Views for handling requests and rendering templates │ └── urls.py # URL configurations ├── manage.py # Django management script ├── requirements.txt # Dependencies for the project ├── README.md # Project information and setup instructions ├── db.sqlite3 # SQLite database (generated after migration) └── .gitignore # Git ignore file to avoid pushing unnecessary
-
